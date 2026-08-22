@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portdoverductcleaning.ca/sitemap-index.xml
