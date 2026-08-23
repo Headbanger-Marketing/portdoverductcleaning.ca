@@ -1,2 +1,25 @@
 # Port Dover Duct Cleaning
-HVAC services in Ontario.
+
+> Port Dover Duct Cleaning is a local HVAC company serving Port Dover, Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 583-0742  |  Email: contact@portdoverductcleaning.ca  |  Website: https://portdoverductcleaning.ca
+
+## Key pages
+
+- [Home](https://portdoverductcleaning.ca/): Port Dover Duct Cleaning homepage with service overview and FAQ
+- [About](https://portdoverductcleaning.ca/about/): About the company and service area
+- [Contact](https://portdoverductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://portdoverductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Port Dover, Ontario
+- [Dryer Vent Cleaning](https://portdoverductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Port Dover, Ontario
+- [Furnace & AC Cleaning](https://portdoverductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Port Dover, Ontario
+- [HRV & Ventilation Cleaning](https://portdoverductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Port Dover, Ontario
+- [Duct Sanitizing & Deodorizing](https://portdoverductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Port Dover, Ontario
+- [Duct Sealing & Repair](https://portdoverductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Port Dover, Ontario
+- [Commercial Duct Cleaning](https://portdoverductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Port Dover, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Port Dover are answered on the homepage.
